@@ -3,7 +3,7 @@
 
 *Default Structure for A Lollipops Project*
 
-**Java 7**
+**Java 8**
 
 * Maven
 * JUnit 4
