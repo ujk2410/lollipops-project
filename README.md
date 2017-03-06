@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Lollipops-project
+## Basic lolipops-project
 
-*Default Structure for A Basic Project*
+*Default Structure for A Lollipops Project*
 
 **Java 7**
 
