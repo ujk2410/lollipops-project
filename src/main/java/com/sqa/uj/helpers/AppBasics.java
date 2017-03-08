@@ -32,7 +32,7 @@ public class AppBasics {
 	 * 
 	 */
 	public static String welcomeUserAndGetName(String appName) {
-		System.out.println("Welcome to the " + appName + " application.n");
+		System.out.println("Welcome to the " + appName + " application.");
 		System.out.print("Can I get your name? ");
 		return scanner.nextLine();
 	}
